@@ -1,5 +1,5 @@
 
-# [Stellar SDK for PHP](https://github.com/Soneso/stellar-php-sdk)
+# [PIPAY SDK for PHP](https://github.com/Pipaypw/paywithpi)
 
 ![v1.7.1](https://img.shields.io/badge/v1.7.1-green.svg)
 
